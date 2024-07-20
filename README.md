@@ -1,6 +1,6 @@
-## Heyy Stranger 👋
+## 👋 Heyy Stranger
 ~ _The more you learn, the less you know._ ~
-- Junior Software Engineer
+- 👨🏽‍💻 Junior Software Engineer
 - Site Reliability Engineering
 - Mobile Development
 - Web Development
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨🏽‍💻 Technical Stack
+## ✨ Technical Stack
 
 ```javascript
 let techStack = {
