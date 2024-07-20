@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ## ✨ Technical Stack
 
 ```javascript
-let techStack = {
+let tech_stack = {
     general: ["C/C++", "Python", "HTML/CSS/JavaScript", "SQL"],
     advanced: ["Assembly_x86", "Scala", "Swift", "Dart", "Matlab"],
     tools: ["Docker", "Kubernetes", "GitHub", "GitLab", "Figma", "Webflow", "Notion"],
-    code-editors: ["XCode", "VSCode", "IntelliJ", "PyCharm"]
+    code_editors: ["XCode", "VSCode", "IntelliJ", "PyCharm"]
 };
 ```
