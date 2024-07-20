@@ -1,5 +1,9 @@
 ## Heyy Stranger 👋
 ~ _The more you learn, the less you know._ ~
+- Junior Software Engineer
+- Site Reliability Engineering
+- Mobile Development
+- Web Development
 
 <!--
 **Wavyness/Wavyness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +22,11 @@ Here are some ideas to get you started:
 
 ## 👨🏽‍💻 Technical Stack
 
-```
-let techStack = [
-    "languages: ["Assembly_x86", "C/C++", "Python", "HTML/CSS/Javascript", "Scala", "Swift", "Dart", "SQL", "Matlab"],
-    "tools: ["Docker", "Kubernetes", "Figma", "Webflow", "Notion"],
-    "editors": ["XCode", "VSCode", "IntelliJ", "PyCharm"]
-]
+```javascript
+let techStack = {
+    general: ["C/C++", "Python", "HTML/CSS/JavaScript", "SQL"],
+    advanced: ["Assembly_x86", "Scala", "Swift", "Dart", "Matlab"],
+    tools: ["Docker", "Kubernetes", "GitHub", "GitLab", "Figma", "Webflow", "Notion"],
+    code-editors: ["XCode", "VSCode", "IntelliJ", "PyCharm"]
+};
 ```
