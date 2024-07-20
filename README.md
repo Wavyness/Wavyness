@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 let techStack = [
     "languages: ["Assembly_x86", "C/C++", "Python", "HTML/CSS/Javascript", "Scala", "Swift", "Dart", "SQL", "Matlab"],
     "tools: ["Docker", "Kubernetes", "Figma", "Webflow", "Notion"],
-    "editors": ["XCode", "VSCode", "IntelliJ", PyCharm"]
+    "editors": ["XCode", "VSCode", "IntelliJ", "PyCharm"]
 ]
 ```
