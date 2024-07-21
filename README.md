@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 let tech_stack = {
     general: ["C/C++", "Python", "HTML/CSS/JavaScript", "SQL"],
     advanced: ["Assembly_x86", "Scala", "Swift", "Dart", "Matlab"],
-    tools: ["Docker", "Kubernetes", "GitHub", "GitLab", "Figma", "Webflow", "Notion"],
-    code_editors: ["XCode", "VSCode", "IntelliJ", "PyCharm"]
+    frameworks: ["Vapor", "Flutter", "SwiftUI"],
+    dev-tools: ["Docker", "Kubernetes", "GitHub/GitLab"],
+    code_editors: ["XCode", "VSCode", "IntelliJ", "PyCharm"],
+    applications: ["Notion", "Figma", "Webflow"]
 };
 ```
