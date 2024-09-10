@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ```javascript
 let tech_stack = {
-    general: ["C/C++", "Python", "HTML/CSS/JavaScript", "SQL"],
+    general: ["C/C++", "Python", "HTML/CSS/JavaScript", "SQL", "Java"],
     advanced: ["Assembly_x86", "Scala", "Swift", "Dart", "Matlab"],
     frameworks: ["Vapor", "Flutter", "SwiftUI"],
     dev-tools: ["Docker", "Kubernetes", "GitHub/GitLab"],
